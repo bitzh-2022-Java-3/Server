@@ -9,10 +9,10 @@
 | String | String | String | int | Date | String | int | double | String(MD5) |
 
 ### 员工表 ( worker table )
-| wid | name | sex | age | hiredate | phone | info | pwd |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 工号 | 姓名 | 性别 | 年龄 | 入职时间 | 手机号 | 备注信息 | 密码 |
-| String | String | String | int | Date | String | String | String(MD5) |
+| wid | name | sex | age | hiredate | phone | position | info | pwd |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 工号 | 姓名 | 性别 | 年龄 | 入职时间 | 手机号 | 职位 | 备注信息 | 密码 |
+| String | String | String | int | Date | String | String | String | String(MD5) |
 
 ### 管理员表 ( admin table )
 | uid | name | pwd | phone | group |
