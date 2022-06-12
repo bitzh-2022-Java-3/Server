@@ -36,7 +36,7 @@
 | **数据类型** | String | Strinhg | int |
 | **约束** | PK , NotNull | NotNull | NotNull |
 
-5. 器材状态表 ( eqSatatusTable)
+5. 器材状态表 ( eqSatatusTable )
 
 | **列名** | statusNo | status | eNO |
 | :----: | :----: | :----: | :----: |
