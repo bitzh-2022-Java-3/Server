@@ -54,7 +54,7 @@
 | **约束** | PK , NotNull | NotNull | NotNull | - | - | - |
 
 
-7. 会员选课表( courseScheduleTable )
+7. 会员选课表( courseSelectionTable )
 
 | **列名** | csNo | classNo | vipNo | time |
 | :----: | :----: | :----: | :----: | :----: |
