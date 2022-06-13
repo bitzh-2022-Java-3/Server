@@ -49,7 +49,7 @@
 
 | **列名** | classNo | name | workerNo | classTime | classDate | price |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| **说明** | 课程编号 | 课程名 | 上课教师工号 | 课时 | 课程开始时间 | ¥价格(单位：分) |
+| **说明** | 课程编号 | 课程名 | 上课教师工号 | 课时 | 课程开始时间 | ¥价格(单位：元) |
 | **数据类型** | String | String | String | int | Date | int |
 | **约束** | PK , NotNull | NotNull | NotNull | - | - | - |
 
